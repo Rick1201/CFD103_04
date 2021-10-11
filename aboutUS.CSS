@@ -158,6 +158,7 @@ p{
     visibility: hidden;
     opacity: 0;
     position: fixed;
+    top: 90px;
     z-index: 5; 
     background-color: #0a0a0a;
     transition: visibility 0s linear 500ms, opacity 300ms;
